@@ -47,7 +47,7 @@ Run 2 was selected because it achieved the lowest validation RMSE among the thre
 
 The following screenshot shows the experiment results recorded in the MLflow UI.
 
-![MLflow experiment results](screenshots/Training runs.png)
+![MLflow experiment results](screenshots/Training-runs.png)
 
 ## 7. How to Run the Project
 
